@@ -1,0 +1,32 @@
+# Skibla
+
+> Decide sooner. Reach patients faster. Skibla helps medtech and pharma device teams make the decision, with the analysis and the argument behind it.
+
+Diligence, when it counts. Skibla ApS · Birkerød, Denmark · info@skibla.com · +45 50 30 75 73
+
+## Services
+
+- [Services](https://skibla.com/services): Three services, one method: a basis for the decision in medtech and pharma device development.
+- [Scoping Projects and Problems](https://skibla.com/scoping): Your ambition turned into three engineered directions with plans, budgets and risk, so you can make the strategic R&D decision.
+- [Scoping AI Initiatives](https://skibla.com/ai-scoping): Decide which AI initiatives in R&D are worth running, and what they take in a regulated environment.
+- [Injection Device Selection](https://skibla.com/injection-device-selection): Choose your injection device without delaying the drug program. Existing platform or new development, settled before the choice costs you time.
+
+## Cases
+
+- [Illustrative cases](https://skibla.com/cases): Eight illustrative cases from medtech and pharma device development. The numbers and problems are fictional. The method is real.
+- [A new dose for a new patient group](https://skibla.com/cases/new-dose-for-a-new-patient-group): A larger dose for a broader patient group, without changing the pen.
+- [Passing verification without moving the filing date](https://skibla.com/cases/verification-without-moving-filing): A syringe fracture found six weeks before design verification, and a filing date that could not move.
+- [A new delivery route, before the first prototype](https://skibla.com/cases/new-delivery-route-before-first-prototype): How much device is enough for the preclinical studies of a route no device was built for?
+- [Five projects, budget for three](https://skibla.com/cases/five-projects-budget-for-three): Five development projects, budget for three, and one yardstick to rank them.
+- [Fourteen AI ideas, one development department](https://skibla.com/cases/fourteen-ai-ideas-one-department): Fourteen AI ideas in a device development department, and a QA function that had stopped two pilots.
+- [An AI standards advisor for the development team](https://skibla.com/cases/iso-advisor-for-the-development-team): Engineers waited days for answers on standards. An agent that reads the standards and the company's own procedures, and knows when to call QA.
+- [Which of our own tools are worth keeping](https://skibla.com/cases/which-tools-are-worth-keeping): Twenty-three home-built tools in one R&D department. Which were worth making professional, and which should go.
+- [Platform or new development](https://skibla.com/cases/platform-or-new-development): An existing injection platform or a new device, without making the device the reason the drug program waits.
+
+## Company
+
+- [About Skibla](https://skibla.com/about): Skibla keeps expectations, requirements and consequences in balance, so development projects reach their goal faster.
+- [Contact](https://skibla.com/contact): Book a 30-minute call with Skibla, or write to info@skibla.com.
+- [Careers](https://skibla.com/careers): Skibla is always open to skilled people in device development, quality and regulatory, and applied AI. Write to careers@skibla.com.
+- [Insights](https://skibla.com/insights): Articles on device development in medtech and pharma, from Skibla.
+- [Privacy policy](https://skibla.com/privacy): How Skibla ApS handles personal data and cookies on skibla.com.
